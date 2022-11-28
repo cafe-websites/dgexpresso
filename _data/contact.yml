@@ -1,0 +1,14 @@
+location:
+  address: Shop 4 / C14 63-93 Merchant Street Located just outside of Woolworth supermarket, Docklands VIC 3008
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.7039002856372!2d144.94346249999998!3d-37.820403999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d5ea5324431%3A0x3ebac96588b90752!2sD.G.Expresso!5e0!3m2!1sen!2sau!4v1669622908768!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/DgExpressoDock/
+  - platform: Instagram
+    link: https://www.instagram.com
+  - platform: email
+    link: mailto:example@example.com
+  - platform: phone
+    link: tel:(03) 9620 9171
